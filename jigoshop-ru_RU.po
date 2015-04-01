@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Jigoshop v1.7\n"
 "Report-Msgid-Bugs-To: Jeff Parsons <jeff.parsons@jigoshop.com>\n"
 "POT-Creation-Date: 2015-03-24 18:11+0300\n"
-"PO-Revision-Date: 2015-04-01 17:28+0200\n"
+"PO-Revision-Date: 2015-04-01 18:04+0200\n"
 "Last-Translator: VslavB <design@vslav.com>\n"
 "Language-Team: VslavB <dev@vslav.com>\n"
 "Language: ru_RU\n"
@@ -1068,19 +1068,16 @@ msgid "Order Number"
 msgstr "Примечания к заказу"
 
 #: ../jigoshop_emails.php:157
-#, fuzzy
 msgid "Order Date"
-msgstr "Данные заказа"
+msgstr "Дата заказа"
 
 #: ../jigoshop_emails.php:158
-#, fuzzy
 msgid "Order Status"
 msgstr "Статус заказа"
 
 #: ../jigoshop_emails.php:159 ../jigoshop_emails.php:237
-#, fuzzy
 msgid "Shop Name"
-msgstr "Менеджер магазина"
+msgstr "Имя Магазина"
 
 #: ../jigoshop_emails.php:160 ../jigoshop_emails.php:238
 #, fuzzy
@@ -1093,19 +1090,16 @@ msgid "Shop Address part 2"
 msgstr "Адрес 2"
 
 #: ../jigoshop_emails.php:162 ../jigoshop_emails.php:240
-#, fuzzy
 msgid "Shop TaxNumber"
-msgstr "Менеджер магазина"
+msgstr "Налоговый номер Магазина"
 
 #: ../jigoshop_emails.php:163 ../jigoshop_emails.php:241
-#, fuzzy
 msgid "Shop_Phone"
-msgstr "Телефон"
+msgstr "Телефон_Магазина"
 
 #: ../jigoshop_emails.php:164 ../jigoshop_emails.php:242
-#, fuzzy
 msgid "Shop Email"
-msgstr "Электронная почта компании"
+msgstr "Электронная почта Магазина"
 
 #: ../jigoshop_emails.php:165
 #, fuzzy
@@ -4712,7 +4706,6 @@ msgid "Default options for new products"
 msgstr ""
 
 #: ../classes/jigoshop_options.class.php:1179
-#, fuzzy
 msgid "Tax status"
 msgstr "Налоговый статус"
 
@@ -4721,7 +4714,6 @@ msgid "Whether new products should be taxable by default."
 msgstr ""
 
 #: ../classes/jigoshop_options.class.php:1191
-#, fuzzy
 msgid "Tax classes"
 msgstr "Налоговые классы"
 
@@ -5597,14 +5589,12 @@ msgstr ""
 "почтовый код)."
 
 #: ../gateways/no_payment.php:11
-#, fuzzy
 msgid "No payment required"
-msgstr "Требовать уплаты для Бесплатных"
+msgstr "Оплата не требуется"
 
 #: ../gateways/cod.php:64
-#, fuzzy
 msgid "Waiting for cash delivery."
-msgstr "Ожидание оплаты наличными"
+msgstr "Ожидание оплаты наличными."
 
 #: ../gateways/cod.php:89 ../gateways/cod.php:110
 msgid "Cash on Delivery"
